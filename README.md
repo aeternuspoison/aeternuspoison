@@ -15,7 +15,6 @@ software developer
 
 ![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
 ![PowerShell](https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=powershell)
 
