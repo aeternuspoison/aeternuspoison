@@ -40,10 +40,18 @@ software developer
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visual-studio-code)
 
 ---
+---
+
+<br>
+<br>
+<br>
 
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=github_dark)
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=luanvictorsz&style=flat-square&label=visitors)
 
 </div>
