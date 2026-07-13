@@ -48,10 +48,10 @@ software developer
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aeternuspoison&theme=github_dark)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=luanvictorsz&style=flat-square&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=aeternuspoison&style=flat-square&label=visitors)
 
 </div>
